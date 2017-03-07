@@ -2,4 +2,4 @@
 
 十一点我们就要睡觉
 
-![Aaron Swartz](http://wx1.sinaimg.cn/mw690/648ac377gy1fdddtt8bjkj21kw0w010n.jpg)
+![image](http://wx1.sinaimg.cn/mw690/648ac377gy1fdddtt8bjkj21kw0w010n.jpg)
