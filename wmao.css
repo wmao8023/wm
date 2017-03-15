@@ -1,0 +1,44 @@
+header {
+        background-color:#fee362;
+        color:black;
+        text-align:left;
+        padding:5px;
+      }
+body{
+        background-color:#fee362
+      }
+ul {
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        padding-top:6px;
+        padding-bottom:6px;
+        background-color:#fee362
+      }
+li {
+        display:inline;
+      }  
+a:link,a:visited {
+        color:black;
+        text-align:left;
+        padding:6px;
+        text-decoration:none;
+      }
+a:hover,a:active {
+        color:white;
+      }
+.position_logo{
+        position:fixed;
+        top:20px;
+        left:40px;
+      }
+.position_tab{
+        position:fixed;
+        top:55px;
+        left:200px;
+      }
+.position_home{
+        position:absolute;
+        top:250px;
+        left:700px;
+      }
