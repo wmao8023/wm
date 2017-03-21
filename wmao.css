@@ -1,5 +1,5 @@
 header {
-        background-color:#fee362;
+        background-color:white;
         color:black;
         text-align:left;
         width:1008px;
@@ -17,7 +17,7 @@ ul {
         padding:0;
         padding-top:5px;
         padding-bottom:5px;
-        background-color:#fee362
+        background-color:red
 }
 ul.position {
         position:relative;
