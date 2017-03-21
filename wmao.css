@@ -4,6 +4,11 @@ header {
         text-align:left;
         padding:5px;
 }
+#section {
+        width:400px;
+        float:left;
+        padding:10px;
+}
 body{
         background-color:#fee362
 }
