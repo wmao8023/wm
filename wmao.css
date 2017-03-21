@@ -2,7 +2,9 @@ header {
         background-color:#fee362;
         color:black;
         text-align:left;
-        padding:5px;
+        width:1008px;
+        margin:0;
+        padding:20px;
 }
 #section {
         width:400px;
@@ -32,20 +34,6 @@ a:link,a:visited {
 a:hover,a:active {
         color:white;
 }
-.position_logo{
-        position:fixed;
-        top:20px;
-        left:40px;
-}
-.position_tab{
-        position:fixed;
-        top:55px;
-        left:200px;
-}
-.position_home{
-        position:absolute;
-        top:250px;
-        left:700px;
 }
 .center {
         margin:auto;
