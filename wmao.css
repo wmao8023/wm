@@ -1,7 +1,7 @@
 <!--头部和主体-->
 header {
-        background-color:#fee362;
-        color:black;
+        background-color:black;
+        color:white;
         text-align:left;
         margin:0;
         padding:20px;
@@ -19,7 +19,7 @@ ul {
         padding:0;
         padding-top:5px;
         padding-bottom:5px;
-        background-color:#fee362;
+        background-color:red;
 }
 ul.position {
         position:relative;
