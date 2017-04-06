@@ -1,3 +1,4 @@
+<!--头部和主体-->
 header {
         background-color:#fee362;
         color:black;
@@ -10,6 +11,8 @@ body{
         background-color:#fee362;
         text-align:center;
 }
+
+<!--导航栏样式-->
 ul {
         list-style-type:none;
         margin:0;
@@ -25,7 +28,9 @@ ul.position {
 }
 li {
         display:inline;
-}  
+}
+
+<!--链接样式 选中效果 点击效果 移入效果-->
 a:link,a:visited {
         color:black;
         text-align:left;
@@ -35,7 +40,8 @@ a:link,a:visited {
 a:hover,a:active {
         color:white;
 }
-}
+
+<!--文章主体的样式-->
 .center {
         margin:auto;
         width:70%;
