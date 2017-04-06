@@ -1,4 +1,4 @@
-<!--头部和主体-->
+/*头部和主体*/
 header {
         background-color:black;
         color:white;
@@ -12,7 +12,7 @@ body{
         text-align:center;
 }
 
-<!--导航栏样式-->
+/*导航栏样式*/
 ul {
         list-style-type:none;
         margin:0;
@@ -30,7 +30,7 @@ li {
         display:inline;
 }
 
-<!--链接样式 选中效果 点击效果 移入效果-->
+/*链接样式 选中效果 点击效果 移入效果*/
 a:link,a:visited {
         color:black;
         text-align:left;
@@ -41,7 +41,7 @@ a:hover,a:active {
         color:white;
 }
 
-<!--文章主体的样式-->
+/*文章主体的样式*/
 .center {
         margin:auto;
         width:70%;
