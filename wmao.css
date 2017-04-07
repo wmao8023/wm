@@ -1,10 +1,12 @@
 header {
-        background-color:black;
-        color:white;
-        text-align:left;
-        margin:0;
-        padding:20px;
-        height:50px;
+        background-color:black;/*设置头部背景颜色为黑色*/
+        background-image:url("https://raw.githubusercontent.com/wmao8023/wm/gh-pages/images/logo.png");/*设置头图*/
+        background-repeat:no-repeat;/*头图不平铺*/
+        color:white;/*字体颜色为白色*/
+        text-align:left;/*元素左对齐*/
+        margin:0;/*外边距为0*/
+        padding:10px;/*内边距为10像素*/
+        height:50px;/*头部高度为50像素*/
 }
 body{
         background-color:#fee362;
